@@ -9,16 +9,4 @@ public class Rectangle {
         System.out.println("Lebar :   "+lebar);
         System.out.println("===================");
     }
-    
-    double hitugLuas(){
-        double luas;  
-        luas=panjang*lebar;
-        return luas;
-    } 
-
-    String hitungLuas() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
 }
-
-
