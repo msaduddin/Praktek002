@@ -1,5 +1,5 @@
 package praktek02;
-public class Regtangle {
+public class Rectangle {
     double panjang;
     double lebar;
     
